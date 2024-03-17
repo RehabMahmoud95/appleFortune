@@ -1,0 +1,5 @@
+{
+    "cmake.sourceDirectory": "E:/apps/xBet.app/linux",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
